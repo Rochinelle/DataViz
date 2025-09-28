@@ -1,7 +1,8 @@
-# DataViz-
+# DataViz
 Turn raw data into smart dashboards — instantly.
 
 📊 DataViz App: Auto-Insight Dashboard Generator
+
 DataViz App is a full-stack data visualization tool that automatically transforms user-uploaded datasets into interactive dashboards and intelligent insights. Built for speed, accessibility, and multilingual support, it empowers users to explore their data without writing a single line of code.
 ⚠️ Note: This app is currently under active development. Core features are being built and refined. A live demo will be available soon.
 
